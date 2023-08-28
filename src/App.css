@@ -111,10 +111,10 @@ main{
   margin: 15px 0;
   padding: 0 5px;
   font-family: impact, sans-serif;
-  font-size: 2em;
+  font-size: 2.5em;
   text-transform: uppercase;
   color: white;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   text-shadow:
       2px 2px 0 #000,
       -2px -2px 0 #000,
